@@ -1,5 +1,7 @@
 ![Showcase GIF](https://cdn.discordapp.com/attachments/652535148008701982/1048999775426576495/EnhancedStr-Production.gif)
 
+</br>
+
 # EnhancedStr
 A Python library for prettier, fully customizable console outputs.
 
