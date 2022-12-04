@@ -1,3 +1,5 @@
+![Showcase GIF](https://cdn.discordapp.com/attachments/652535148008701982/1048999775426576495/EnhancedStr-Production.gif)
+
 # EnhancedStr
 A Python library for prettier, fully customizable console outputs.
 
@@ -44,5 +46,3 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 ```
-<!-- Showcase GIF -->
-![Showcase GIF](https://cdn.discordapp.com/attachments/652535148008701982/1048999775426576495/EnhancedStr-Production.gif)
