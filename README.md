@@ -44,4 +44,5 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 ```
-https://cdn.discordapp.com/attachments/652535148008701982/1048999775426576495/EnhancedStr-Production.gif
+<!-- Showcase GIF -->
+![Showcase GIF](https://cdn.discordapp.com/attachments/652535148008701982/1048999775426576495/EnhancedStr-Production.gif)
