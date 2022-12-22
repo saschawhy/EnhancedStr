@@ -1,2 +1,2 @@
-from .es import *
-from .utils import *
+from .mod import es
+from .utils import clearConsole
